@@ -1,3 +1,3 @@
 #Git tutorial
  
- udemy course on Git repo
+A simple git repository helpin g in study git work flow.
