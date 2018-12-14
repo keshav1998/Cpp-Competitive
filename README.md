@@ -1,3 +1,3 @@
 #Git tutorial
- 
-A simple git repository helpin g in study git work flow.
+
+A simple git repository helping in study git work flow.
